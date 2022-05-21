@@ -1,9 +1,9 @@
 # Work-Day-Scheduler
 
 
-Work Day Scheduler Website []
+Work Day Scheduler Website [https://moisescard.github.io/work-time-scheduler/]
 
-Github repo source []
+Github repo source [git@github.com:MoisesCard/work-time-scheduler.git]
 
                                       Description:
            Hello for this project, I made a scheduler for work hours. I ended up using moment.js, bootstrap and jquery. I made it so that you could save what you wrote inside the time slot and you could also save it. Also the colors of the slots would change depending on how close you are to the current time.
